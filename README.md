@@ -1,4 +1,4 @@
-#📋 **Trainee Management Application** 🎓
+# 📋 **Trainee Management Application** 🎓
 
 ## ***✨ Project Description :***
 This project is a web application for managing trainees in a class. It allows users to add trainees, input their grades, calculate their averages, and display their validation status dynamically. The application also provides statistics about the trainees and their performance. It is built using HTML, CSS, Bootstrap, and JavaScript.
