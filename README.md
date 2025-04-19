@@ -72,7 +72,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Displays the trainee data in JSON format for debugging or exporting purposes.
 - **Tools Used:**
-  - **JavaScript:** *afficherJS()* function to display the *stagiaires* array in a <pre> tag.
+  - **JavaScript:** *afficherJS()* function to display the *stagiaires* array in a *pre* tag.
 
 ## ***📷 Screenshots :***
 
