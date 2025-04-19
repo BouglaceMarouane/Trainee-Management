@@ -8,60 +8,71 @@ This project is a web application for managing trainees in a class. It allows us
 ### ****1. Add Trainees****
 
 - **Functionality:** Users can input the trainee's name and grades for CC1, CC2, CC3, and EFM.
+
 - **Tools Used:**
   - **HTML:** Input fields for name and grades.
-  - **JavaScript:** **ajouterStagiaire()** function to validate inputs, calculate averages, and add trainees to the list.
-   - **LocalStorage:** Saves trainees persistently in the browser.
+  - **JavaScript:** ****ajouterStagiaire()**** function to validate inputs, calculate averages, and add trainees to the list.
+  - **LocalStorage:** Saves trainees persistently in the browser.
 
 ### ****2. Edit Trainees****
-Functionality: Users can modify the details of an existing trainee.
+
+- **Functionality:** Users can modify the details of an existing trainee.
 Tools Used:
-JavaScript: modifier(index) function to populate the form with the trainee's data for editing.
+ **JavaScript:** ****modifier(index)**** function to populate the form with the trainee's data for editing.
 
 ### ****3. Delete Trainees****
-Functionality: Users can remove a trainee from the list.
+
+- **Functionality:** Users can remove a trainee from the list.
 Tools Used:
-JavaScript: supprimer(index) function to delete a trainee and update the list.
+- **JavaScript:** ****supprimer(index)**** function to delete a trainee and update the list.
 
 ### ****4. Calculate Averages****
-Functionality: Automatically calculates the average of CC grades and combines it with the EFM grade using a weighted formula:
-Formula: (Average of CCs * 0.33) + (EFM * 0.67)
-Tools Used:
-JavaScript: Calculations are handled in the afficherTable() and calculerStats() functions.
+
+- **Functionality:** Automatically calculates the average of CC grades and combines it with the EFM grade using a weighted formula:
+  - **Formula:** (Average of CCs * 0.33) + (EFM * 0.67)
+- **Tools Used:**
+  - **JavaScript:** Calculations are handled in the ****afficherTable()**** and ****calculerStats()**** functions.
 
 ### ****5. Dynamic Validation****
-Functionality: Trainees are marked as "Validated" (V) if their average is 10 or higher, otherwise "Not Validated" (NV).
-Tools Used:
-JavaScript: Validation logic in afficherTable().
+
+- **Functionality:** Trainees are marked as "Validated" (V) if their average is 10 or higher, otherwise "Not Validated" (NV).
+- **Tools Used:**
+  - **JavaScript:** Validation logic in ****afficherTable()****.
 
 ### ****6. Statistics****
-Functionality: Displays:
-Total number of trainees.
-Class average.
-Number of validated and non-validated trainees.
-Success rate percentage.
-Tools Used:
-JavaScript: calculerStats() function to compute and display statistics dynamically.
+
+- **Functionality:** Displays:
+  - Total number of trainees.
+  - Class average.
+  - Number of validated and non-validated trainees.
+  - Success rate percentage.
+- **Tools Used:**
+  - **JavaScript:** ****calculerStats()**** function to compute and display statistics dynamically.
 
 ### ****7. Responsive Design****
-Functionality: The application is styled for a clean and responsive layout.
-Tools Used:
-Bootstrap: Used for buttons, table styling, and responsive design.
-CSS: Custom styles for animations, buttons, and layout.
+
+- **Functionality:** The application is styled for a clean and responsive layout.
+- **Tools Used:**
+  - **Bootstrap:** Used for buttons, table styling, and responsive design.
+  - **CSS:** Custom styles for animations, buttons, and layout.
 
 ### ****8. Print Functionality****
-Functionality: Users can print the trainee list directly from the application.
-Tools Used:
-JavaScript: window.print() function triggered by a button.
+
+- **Functionality:** Users can print the trainee list directly from the application.
+- **Tools Used:**
+  - **JavaScript:** ****window.print()**** function triggered by a button.
 
 ### ****9. Persistent Data****
-Functionality: Trainee data is saved in the browser's local storage to persist across sessions.
-Tools Used:
-JavaScript: localStorage API to save and retrieve trainee data.
+
+- **Functionality:** Trainee data is saved in the browser's local storage to persist across sessions.
+- **Tools Used:**
+  - **JavaScript:** localStorage API to save and retrieve trainee data.
+
 ### ****10. JavaScript Data Display****
-Functionality: Displays the trainee data in JSON format for debugging or exporting purposes.
-Tools Used:
-JavaScript: afficherJS() function to display the stagiaires array in a <pre> tag.
+
+- **Functionality:** Displays the trainee data in JSON format for debugging or exporting purposes.
+- **Tools Used:**
+  - **JavaScript:** ****afficherJS()**** function to display the ****stagiaires**** array in a ****<pre>**** tag.
 
 ## **🛠️ Technologies Used:**
 
