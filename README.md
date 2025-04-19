@@ -85,36 +85,42 @@ This project is a web application for managing trainees in a class. It allows us
 
 ## ***📷 Screenshots :***
 
+### Main Interface
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/2bdb82f8231f1e152ee651f76e4042b0ab8b230d/images/home.png" alt="image alt"/>
   <br>
   <em>Start - Démarrer le compte à rebours.</em>
 </p><br>
 
+### Main Interface
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/91efc072ab5fe111a5038efc4ca3ba2c7eab2e29/images/add.png" alt="image alt" />
   <br>
   <em>Pause - Mettre en pause le compte à rebours.</em>
 </p><br>
 
+### Main Interface
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/794a22a6960947ff2820e81a71a0f4451fa93730/images/TABLE.png" alt="image alt"/>
   <br>
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
 
+### Main Interface
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/ad51d0ac97dc6bc8219d774e0cf521554f6f7605/images/DELETE.png" alt="image alt"/>
   <br>
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
 
+### Main Interface
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/3ce63c11526748ce1b837da2717fd255c2c5e768/images/PRINT.png" alt="image alt"/>
   <br>
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
 
+### Main Interface
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/3ce63c11526748ce1b837da2717fd255c2c5e768/images/JSON.png" alt="image alt"/>
   <br>
