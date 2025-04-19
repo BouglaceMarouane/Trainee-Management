@@ -101,7 +101,7 @@ Tools Used:
    ```
    npm run dev
    ```
-   The project will be accessible at: [Countdown Timer](https://bouglacemarouane.github.io/COUNT-DOWN-TIMER/)
+   The project will be accessible at: [Countdown Timer](https://bouglacemarouane.github.io/Trainee-Management/)
 
 ## ***🤝 Contribute :***
 
