@@ -110,7 +110,13 @@ This project is a web application for managing trainees in a class. It allows us
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/794a22a6960947ff2820e81a71a0f4451fa93730/images/TABLE.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/3ce63c11526748ce1b837da2717fd255c2c5e768/images/PRINT.png" alt="image alt"/>
+  <br>
+  <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
+</p><br>
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/3ce63c11526748ce1b837da2717fd255c2c5e768/images/JSON.png" alt="image alt"/>
   <br>
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
