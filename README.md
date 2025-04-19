@@ -9,9 +9,9 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Users can input the trainee's name and grades for CC1, CC2, CC3, and EFM.
 - **Tools Used:**
--- **HTML:** Input fields for name and grades.
--- **JavaScript:** **ajouterStagiaire()** function to validate inputs, calculate averages, and add trainees to the list.
--- **LocalStorage:** Saves trainees persistently in the browser.
+  - **HTML:** Input fields for name and grades.
+  - **JavaScript:** **ajouterStagiaire()** function to validate inputs, calculate averages, and add trainees to the list.
+   - **LocalStorage:** Saves trainees persistently in the browser.
 
 ### ****2. Edit Trainees****
 Functionality: Users can modify the details of an existing trainee.
