@@ -92,7 +92,7 @@ This project is a web application for managing trainees in a class. It allows us
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO bouglacemarouane.github.io%20(1).png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/91efc072ab5fe111a5038efc4ca3ba2c7eab2e29/images/add.png" alt="image alt" />
   <br>
   <em>Pause - Mettre en pause le compte à rebours.</em>
 </p><br>
