@@ -98,7 +98,19 @@ This project is a web application for managing trainees in a class. It allows us
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/794a22a6960947ff2820e81a71a0f4451fa93730/images/TABLE.png" alt="image alt"/>
+  <br>
+  <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
+</p><br>
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/794a22a6960947ff2820e81a71a0f4451fa93730/images/TABLE.png" alt="image alt"/>
+  <br>
+  <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
+</p><br>
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Trainee-Management/blob/794a22a6960947ff2820e81a71a0f4451fa93730/images/TABLE.png" alt="image alt"/>
   <br>
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
