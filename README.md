@@ -131,7 +131,7 @@ This project is a web application for managing trainees in a class. It allows us
    ```
    npm run dev
    ```
-   The project will be accessible at: [Countdown Timer](https://bouglacemarouane.github.io/Trainee-Management/)
+   The project will be accessible at: [Trainee Management](https://bouglacemarouane.github.io/Trainee-Management/)
 
 ## ***🤝 Contribute :***
 
