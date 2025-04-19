@@ -18,7 +18,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Users can modify the details of an existing trainee.
 - **Tools Used:**
- **JavaScript:** *modifier(index)* function to populate the form with the trainee's data for editing.
+  - **JavaScript:** *modifier(index)* function to populate the form with the trainee's data for editing.
 
 ### ****3. Delete Trainees****
 
