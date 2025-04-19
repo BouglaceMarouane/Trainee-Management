@@ -72,14 +72,35 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Displays the trainee data in JSON format for debugging or exporting purposes.
 - **Tools Used:**
-  - **JavaScript:** *afficherJS()* function to display the *stagiaires* array in a *<pre>* tag.
+  - **JavaScript:** *afficherJS()* function to display the *stagiaires* array in a <pre> tag.
+
+## ***📷 Screenshots :***
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io.png" alt="image alt"/>
+  <br>
+  <em>Start - Démarrer le compte à rebours.</em>
+</p><br>
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO bouglacemarouane.github.io%20(1).png" alt="image alt" />
+  <br>
+  <em>Pause - Mettre en pause le compte à rebours.</em>
+</p><br>
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png" alt="image alt"/>
+  <br>
+  <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
+</p><br>
+
 
 ## **🛠️ Technologies Used:**
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-5-orange?logo=html5&amp;logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-3-blue?logo=css3&amp;logoColor=white">
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5-red?logo=Bootstrap&amp;logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&amp;logoColor=white">
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-red?logo=Bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&logoColor=white)
 
 ## ***⚙️ Installation Steps :***
 
