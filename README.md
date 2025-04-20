@@ -66,7 +66,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Users can print the trainee list directly from the application.
 
-- **Tools Used:**
+- **Tools Used :**
   - **JavaScript:** *window.print()* function triggered by a button.
 
 ### ****9. Persistent Data****
