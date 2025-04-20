@@ -25,7 +25,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Users can remove a trainee from the list.
 
-- **Tools Used:**
+- **Tools Used :**
   - **JavaScript:** *supprimer(index)* function to delete a trainee and update the list.
 
 ### ****4. Calculate Averages****
