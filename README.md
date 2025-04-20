@@ -40,7 +40,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** Trainees are marked as "Validated" (V) if their average is 10 or higher, otherwise "Not Validated" (NV).
 
-- **Tools Used:**
+- **Tools Used :**
   - **JavaScript:** Validation logic in *afficherTable()*.
 
 ### ****6. Statistics****
