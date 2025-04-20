@@ -128,7 +128,7 @@ This project is a web application for managing trainees in a class. It allows us
 </p><br>
 
 
-## **🛠️ Technologies Used:**
+## **🛠️ Technologies Used :**
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) 
