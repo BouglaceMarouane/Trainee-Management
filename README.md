@@ -7,7 +7,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 ### ****1. Add Trainees****
 
-- **Functionality:** Users can input the trainee's name and grades for CC1, CC2, CC3, and EFM.
+- **Functionality :** Users can input the trainee's name and grades for CC1, CC2, CC3, and EFM.
 
 - **Tools Used:**
   - **HTML:** Input fields for name and grades.
