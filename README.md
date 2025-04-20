@@ -58,7 +58,7 @@ This project is a web application for managing trainees in a class. It allows us
 
 - **Functionality:** The application is styled for a clean and responsive layout.
 
-- **Tools Used:**
+- **Tools Used :**
   - **Bootstrap:** Used for buttons, table styling, and responsive design.
   - **CSS:** Custom styles for animations, buttons, and layout.
 
