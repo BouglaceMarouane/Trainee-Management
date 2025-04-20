@@ -33,7 +33,7 @@ This project is a web application for managing trainees in a class. It allows us
 - **Functionality:** Automatically calculates the average of CC grades and combines it with the EFM grade using a weighted formula:
   - **Formula:** (Average of CCs * 0.33) + (EFM * 0.67)
 
-- **Tools Used:**
+- **Tools Used :**
   - **JavaScript:** Calculations are handled in the *afficherTable()* and *calculerStats()* functions.
 
 ### ****5. Dynamic Validation****
