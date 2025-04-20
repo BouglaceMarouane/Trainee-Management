@@ -51,7 +51,7 @@ This project is a web application for managing trainees in a class. It allows us
   - Number of validated and non-validated trainees.
   - Success rate percentage.
 
-- **Tools Used:**
+- **Tools Used :**
   - **JavaScript:** *calculerStats()* function to compute and display statistics dynamically.
 
 ### ****7. Responsive Design****
